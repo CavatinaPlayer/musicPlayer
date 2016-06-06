@@ -1,0 +1,2 @@
+# musicPlayer
+Cavatina features a classical interface and the style is simply elegant. 1. Quick share all music files and support all the most popular music file formats. 2. Browse and play your music by albums, artists, songs and playlists. 3. Support notification status : show album artwork, play/pause and other controls. 4. Swipe over the sensor to change playing music : next song. 5. Easy playlist creation through multi-select.
